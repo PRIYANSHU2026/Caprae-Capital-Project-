@@ -29,6 +29,8 @@ Hosted in Netlify :-https://caprae-capital.netlify.app
 - Dataset upload functionality with drag-and-drop support
 - AI-powered insights using Mistral AI for data interpretation
 - Export capabilities for reports and presentations
+- <img width="1710" alt="image" src="https://github.com/user-attachments/assets/baf518b6-58cb-4086-82e1-2754e46702b8" />
+
 
 ### 3. **AI Model Integration**
 - **HuggingFace AI Deployment**: Production-ready AI models including:
@@ -39,6 +41,8 @@ Hosted in Netlify :-https://caprae-capital.netlify.app
 - Real-time model testing and validation
 - Cloud deployment status monitoring
 - 99.9% uptime with <200ms response times
+- <img width="1710" alt="image" src="https://github.com/user-attachments/assets/484b5349-a3f9-4034-bc17-a24299a99b2b" />
+
 
 ### 4. **Mistral AI Chat Assistant**
 - Interactive AI-powered chat interface
@@ -46,6 +50,8 @@ Hosted in Netlify :-https://caprae-capital.netlify.app
 - Context-aware responses for lead-related queries
 - Message history and conversation management
 - Customizable API configurations
+- <img width="1710" alt="image" src="https://github.com/user-attachments/assets/de8baa16-e829-44f5-b8b0-a0ac02e54463" />
+
 
 ### 5. **Lead Management System**
 - Comprehensive lead database with scoring algorithms

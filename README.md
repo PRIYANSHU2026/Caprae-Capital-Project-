@@ -5,6 +5,9 @@
 
 The Caprae Capital Lead Intelligence Platform is a comprehensive AI-powered web application designed for investment professionals to analyze, score, and manage leads effectively. Built with modern web technologies, this platform combines advanced analytics, AI-driven insights, and intuitive user interfaces to streamline the lead evaluation process.
 
+Hosted in Netlify :-https://caprae-capital.netlify.app
+
+
 ## 🚀 Key Features
 
 ### 1. **Intelligent Dashboard**

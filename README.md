@@ -221,29 +221,6 @@ The platform is fully responsive and optimized for:
 - Optimized chart rendering for large datasets
 - Efficient state management and caching
 
-## 🚀 Deployment
-
-### Lovable Platform
-- One-click deployment via Lovable's publish feature
-- Custom domain support available
-- SSL certificates included
-
-### Self-Hosting Options
-- Deploy to any static hosting provider
-- GitHub Pages compatible
-- Vercel, Netlify, and AWS S3 support
-
-## 📞 Support & Documentation
-
-### Resources
-- **Project URL**: https://lovable.dev/projects/8182a283-842b-4add-a4c5-fb759292e663
-- **Documentation**: [Lovable Docs](https://docs.lovable.dev/)
-- **Community**: [Discord Community](https://discord.com/channels/1119885301872070706/1280461670979993613)
-
-### Getting Help
-- Use the built-in chat interface for immediate assistance
-- Check the documentation for detailed guides
-- Join the community for peer support
 
 ## 🏢 About Caprae Capital
 

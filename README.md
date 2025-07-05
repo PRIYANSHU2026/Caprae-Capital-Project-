@@ -12,6 +12,8 @@ The Caprae Capital Lead Intelligence Platform is a comprehensive AI-powered web 
 - Interactive data visualization with charts and graphs
 - Performance monitoring and analytics overview
 - Responsive design optimized for all devices
+- <img width="1710" alt="image" src="https://github.com/user-attachments/assets/501b2966-b6ae-4eeb-98b2-401dee735fda" />
+
 
 ### 2. **Advanced EDA Analytics**
 - Comprehensive Exploratory Data Analysis with multiple chart types:
